@@ -17,7 +17,7 @@ PRO_PATH=../src/front/s21_3dViewer.pro
 GCOVR_PATH=gcovr
 BUILD_DIR=build
 INSTALL_PATH= $(BUILD_DIR)
-EXCLUDE_PATH=tests
+EXCLUDE_PATH=./src/tests
 
 
 SOURCES_CPP=$(shell find ./src/front -name '*.cpp')
