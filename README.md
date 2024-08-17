@@ -2,6 +2,8 @@
 
 This program for viewing 3D wireframe models (3D Viewer) in the C programming language. The models themselves must be loaded from .obj files and be viewable on screen with the ability to rotate, scale and translate. A wireframe model is a model of an object in 3D graphics, which is a set of vertices and edges that defines the shape of the displayed polyhedral object in three-dimensional space.
 
+![alt text](misc/images/image.png)
+
 The program provides the ability to:
 
     - Load a wireframe model from an obj file (vertices and surfaces list support only);
