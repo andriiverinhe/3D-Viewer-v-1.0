@@ -1,0 +1,10 @@
+# Blender v2.76 (sub 0) OBJ f ile: ''
+# www.blender.org
+mtllib cube.mtl
+o wrong file
+
+v 1 1 1
+v 2 2 2
+v 3 3 3
+
+f 1
