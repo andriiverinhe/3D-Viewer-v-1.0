@@ -4,6 +4,8 @@ This program for viewing 3D wireframe models (3D Viewer) in the C programming la
 
 ![alt text](misc/images/image.png)
 
+![Video title](misc/video/video.webm)
+
 The program provides the ability to:
 
     - Load a wireframe model from an obj file (vertices and surfaces list support only);
